@@ -1,11 +1,11 @@
 # CAD-PORTFOLIO
 CAD design projects and technical drawings
-![Gear Assembly](gear.png)
+![Gear Assembly](Nardessa(2).jpg)
 # My CAD Portfolio
 
 ## Gear Assembly
 
-![Gear Assembly](gear.png)
+![Gear Assembly](Nardessa(2).jpg)
 
 This project demonstrates the design of a mechanical gear system.
 
