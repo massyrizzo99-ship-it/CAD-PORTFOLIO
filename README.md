@@ -1,17 +1,31 @@
 # CAD-PORTFOLIO
 CAD design projects and technical drawings
-![Gear Assembly](Nardessa(2).jpg)
+![Domed Structure of the School Classroom](B1.png)
 # My CAD Portfolio
 
-## Gear Assembly
+## Domed Structure of the School Classroom
+[](B2.jpg)
+[](B3.jpg)
+[](B4.jpg)
+[](B5.jpg)
 
-![Gear Assembly](Nardessa(2).jpg)
-
-This project demonstrates the design of a mechanical gear system.
-
+Domed Structure of the School Classroom
 Software Used:
-- Fusion 360
+- Autodesk Advance Steel
 
-Skills:
-- Assembly design
-- Motion study
+
+![Staircase](S1.png)
+# My CAD Portfolio
+
+## Staircase
+[](S2.jpg)
+[](S3.jpg)
+[](S4.jpg)
+[](S5.jpg)
+[](S6.jpg)
+[](S7.jpg)
+[](S8.jpg)
+[](S9.jpg)
+Staircase
+Software Used:
+- Autodesk Advance Steel
