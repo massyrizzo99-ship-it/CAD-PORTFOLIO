@@ -42,3 +42,15 @@ Software Used:
 Roof Structure
 Software Used:
 - Autodesk Advance Steel
+  ![Pedestrian walkway ](P1.jpg)
+# My CAD Portfolio
+
+## Pedestrian walkway
+![1](P2.jpg)
+![2](P3.jpg)
+![3](P4.jpg)
+![4](P5.jpg)
+
+Pedestrian walkway
+Software Used:
+- Autodesk Advance Steel
