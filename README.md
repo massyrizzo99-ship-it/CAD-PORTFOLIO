@@ -49,8 +49,8 @@ Software Used:
 ![1](P2.jpg)
 ![2](P3.jpg)
 ![3](P4.jpg)
-![4](P5.jpg)
-![5](P6.jpg)
+![4](P5.jpeg)
+![5](P6.jpeg)
 
 
 Pedestrian walkway
