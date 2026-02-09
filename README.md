@@ -14,7 +14,7 @@ Software Used:
 - Autodesk Advance Steel
 
 
-![Staircase](S1.png)
+![Staircase](S1.jpg)
 # My CAD Portfolio
 
 ## Staircase
