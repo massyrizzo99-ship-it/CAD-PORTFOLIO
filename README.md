@@ -4,10 +4,10 @@ CAD design projects and technical drawings
 # My CAD Portfolio
 
 ## Domed Structure of the School Classroom
-[](B2.jpg)
-[](B3.jpg)
-[](B4.jpg)
-[](B5.jpg)
+[1](B2.jpg)
+[2](B3.jpg)
+[3](B4.jpg)
+[4](B5.jpg)
 
 Domed Structure of the School Classroom
 Software Used:
@@ -18,14 +18,14 @@ Software Used:
 # My CAD Portfolio
 
 ## Staircase
-[](S2.jpg)
-[](S3.jpg)
-[](S4.jpg)
-[](S5.jpg)
-[](S6.jpg)
-[](S7.jpg)
-[](S8.jpg)
-[](S9.jpg)
+[1](S2.jpg)
+[2](S3.jpg)
+[3](S4.jpg)
+[4](S5.jpg)
+[5](S6.jpg)
+[6](S7.jpg)
+[7](S8.jpg)
+[8](S9.jpg)
 Staircase
 Software Used:
 - Autodesk Advance Steel
